@@ -1,0 +1,23 @@
+#h1 
+   { 
+      font-family : "arial",sans-serif;
+      text-size : 50px;
+      text-align : center;
+      
+      
+      }
+ .box:nth-child(1){
+     background-color:grey;
+     width : 200px;
+     height : 400px;
+     Border : 3px solid black;
+     padding : 100px;
+     margin : 100px;
+    }
+   
+ .head 
+   {
+     width : 70px;
+     border : 2px solid black;
+     text-align : center;
+   }
