@@ -6,7 +6,7 @@
       
       
       }
- .box:nth-child(1){
+ .box{
      background-color:grey;
      width : 200px;
      height : 400px;
